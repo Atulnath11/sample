@@ -1,0 +1,24 @@
+h4{
+    color: aqua;
+}
+#id1{
+    text-align: right;
+}
+.box1{
+    border: 2px solid black;
+    background-color: aliceblue;
+    background-image: url(https://imgs.search.brave.com/Q5bvPeL7gPje9Gy5n77mxQej_6bplramGKp99Zk8Lc0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAyMS8x/MC8wOC8wNy8xMy9h/dXR1bW4tNjY5MDQ2/Nl82NDAuanBn);
+    /* margin-left: 10%;
+    margin-right: 30%; */
+    margin: 0  30% 0 30%;
+    padding: 3% 5%;
+    border-radius: 0.5cm;
+}
+table,th,td {
+border: 2px solid black;
+}
+body{
+    background-image: url(https://imgs.search.brave.com/xI69lkHJHlmpIKE1cH7hkwCp0MusMwlk6HLaS85c6F8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jb25jcmV0ZS1i/YWNrZ3JvdW5kLXRl/eHR1cmUtd2FsbHBh/cGVyLXdoaXRlLXRl/eHR1cmVkLXdhbGxf/MTE4MDQ3LTQ3NTku/anBnP3NlbXQ9YWlz/X2h5YnJpZA);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
